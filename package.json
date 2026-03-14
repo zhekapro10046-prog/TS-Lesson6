@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/node": "^25.3.3",
+    "dotenv": "^17.3.1",
+    "typescript": "^5.9.3"
+  }
+}
