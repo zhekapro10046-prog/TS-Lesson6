@@ -47,7 +47,7 @@ class ConfigService {
     }
 
     public static getImgUrl(): string {
-        return "https://youtube.com/sdadsaasd"
+        return "https://youtube.com/sdaaadsaasd"
     }
 
     public static getInstance(): ConfigService {

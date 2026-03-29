@@ -39,7 +39,7 @@ class ConfigService {
         this._config = cfg.parsed;
     }
     static getImgUrl() {
-        return "https://youtube.com/sdadsaasd";
+        return "https://youtube.com/sdaaadsaasd";
     }
     static getInstance() {
         if (!ConfigService.instance) {
